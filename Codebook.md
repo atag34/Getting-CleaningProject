@@ -2,14 +2,14 @@ Tidydata.txt is a table that contains the mean of all the variables available in
 
 activity: Describes the action being performed by the subject
 
-1: WALKING
-2: WALKING_UPSTAIRS
-3: WALKING_DOWNSTAIRS
-4: SITTING
-5: STANDING
-6: LAYING
++ 1: WALKING
++ 2: WALKING_UPSTAIRS
++ 3: WALKING_DOWNSTAIRS
++ 4: SITTING
++ 5: STANDING
++ 6: LAYING
 
-subject: identifies which sibject of the 1:30 represented in the dataset.
+subject: identifies which sibject of the *1:30* represented in the dataset.
 
 
 The mean of the following Variables are contained in the Tidy Data
